@@ -1,753 +1,233 @@
-2021-01-24 17:32:20 [main] INFO  by.metelski.learn.tryit.Main- message
-2021-01-24 17:36:34 [main] ERROR by.metelski.learn.tryit.Main- messageError
-2021-01-24 17:36:34 [main] INFO  by.metelski.learn.tryit.Main- messageInfo
-2021-01-24 17:36:34 [main] DEBUG by.metelski.learn.tryit.Main- messageDebug
-2021-01-24 17:36:34 [main] WARN  by.metelski.learn.tryit.Main- messageWarn
-2021-01-24 17:37:02 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 17:37:02 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:37:02 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:37:02 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
-2021-01-24 17:37:29 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 17:37:29 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:37:29 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:37:29 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
-2021-01-24 17:41:06 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 17:41:06 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:41:06 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:41:06 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
-2021-01-24 17:41:06 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:41:06 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:41:06 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
-2021-01-24 17:46:27 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 17:46:27 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:46:27 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:46:27 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- Average value: 3.625
-2021-01-24 17:46:27 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:46:27 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:46:27 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
-2021-01-24 17:46:27 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:46:27 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:46:27 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
-2021-01-24 17:48:06 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 17:48:06 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:48:06 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:48:06 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- Average value: 3.625
-2021-01-24 17:48:06 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:48:06 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:48:06 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
-2021-01-24 17:48:06 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:48:06 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:48:06 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
-2021-01-24 17:48:21 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 17:48:21 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:48:21 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:48:21 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- Average value: 3.625
-2021-01-24 17:48:21 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:48:21 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:48:21 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
-2021-01-24 17:52:41 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 17:52:41 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:52:41 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:52:41 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- Average value: 3.625
-2021-01-24 17:52:41 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:52:41 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:52:41 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
-2021-01-24 17:52:41 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:52:41 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:52:41 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
-2021-01-24 17:52:41 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:52:41 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:52:41 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of negative numbers: 1
-2021-01-24 17:52:41 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:52:41 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 17:52:41 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of positive numbers: 6
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- Average value: 3.625
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of negative numbers: 1
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of positive numbers: 6
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:02:36 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- sum of all array elements: 29
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- Average value: 3.625
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of negative numbers: 1
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of positive numbers: 6
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:03:32 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- sum of all array elements: 29
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- Average value: 3.625
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of negative numbers: 1
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of positive numbers: 6
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- sum of all array elements: 29
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNegativeElements, number to replace: 0
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 1
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 4
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 7
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 9
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.action.ArrayAction- all negative elements replaced for number: 0
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNumbersAboveNull, number to replace: 5
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 2
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 8
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.action.ArrayAction- all elements above nine replaced for number: 5
-2021-01-24 18:04:28 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- Average value: 3.625
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of negative numbers: 1
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of positive numbers: 6
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- sum of all array elements: 29
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNegativeElements, number to replace: 0
-2021-01-24 18:14:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 1
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 4
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 7
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 9
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.action.ArrayAction- all negative elements replaced for number: 0
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNumbersAboveNull, number to replace: 5
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 2
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 8
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.action.ArrayAction- all elements above nine replaced for number: 5
-2021-01-24 18:14:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- Average value: 3.625
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of negative numbers: 1
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of positive numbers: 6
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- sum of all array elements: 29
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNegativeElements, number to replace: 0
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 1
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 4
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 7
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 9
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.action.ArrayAction- all negative elements replaced for number: 0
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNumbersAboveNull, number to replace: 5
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 2
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 8
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.action.ArrayAction- all elements above nine replaced for number: 5
-2021-01-24 18:15:36 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- Average value: 3.625
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of negative numbers: 1
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of positive numbers: 6
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- sum of all array elements: 29
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNegativeElements, number to replace: 0
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 1
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 4
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 7
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 9
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.action.ArrayAction- all negative elements replaced for number: 0
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNumbersAboveNull, number to replace: 5
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 2
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 8
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.action.ArrayAction- all elements above nine replaced for number: 5
-2021-01-24 18:23:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- Average value: 3.625
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of negative numbers: 1
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of positive numbers: 6
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- sum of all array elements: 29
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNegativeElements, number to replace: 0
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 1
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 4
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 7
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 9
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.action.ArrayAction- all negative elements replaced for number: 0
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNumbersAboveNull, number to replace: 5
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 2
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 8
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.action.ArrayAction- all elements above nine replaced for number: 5
-2021-01-24 18:54:16 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- Average value: 3.2222222222222223
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of negative numbers: 1
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of positive numbers: 6
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- sum of all array elements: 29
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNegativeElements, number to replace: 0
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 1
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 4
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 7
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 9
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 11
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.action.ArrayAction- all negative elements replaced for number: 0
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNumbersAboveNull, number to replace: 5
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 2
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 8
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 11
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.action.ArrayAction- all elements above nine replaced for number: 5
-2021-01-24 19:09:18 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- Average value: 2.9
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of negative numbers: 1
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of positive numbers: 6
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- sum of all array elements: 29
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNegativeElements, number to replace: 0
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 1
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 4
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 7
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 9
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.action.ArrayAction- all negative elements replaced for number: 0
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNumbersAboveNull, number to replace: 5
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 2
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 8
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.action.ArrayAction- all elements above nine replaced for number: 5
-2021-01-24 19:10:57 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- Average value: 2.9
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of negative numbers: 1
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of positive numbers: 6
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- sum of all array elements: 29
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNegativeElements, number to replace: 0
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 1
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 4
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 7
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 9
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.action.ArrayAction- all negative elements replaced for number: 0
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- set array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNumbersAboveNull, number to replace: 5
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 2
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 8
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.action.ArrayAction- all elements above nine replaced for number: 5
-2021-01-24 19:13:23 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:14 [main] INFO  by.metelski.learn.parser.CustomParser- return parsed array[1, -5, 8, -9, 10, 0, 954]
+2021-01-26 15:43:14 [main] INFO  by.metelski.learn.reader.StringFromTextFileReader- read string from file : [1,5,18,-9,0,0,-2,0,18,9,2,-85,4, 48 80 -86 -7 93 -33 86 -85 99 -94 30 61 91 73 24, 35,z4, 4z5c, aaa, 38 22 3 21 45 20 0 30 44 9 0 23 17 35 37]
+2021-01-26 15:43:14 [main] INFO  by.metelski.learn.validation.CheckStringFromFile- string is valid : true
+2021-01-26 15:43:14 [main] INFO  by.metelski.learn.parser.CustomParser- return parsed array[1, 5, 18, -9, 0, 0, -2, 0, 18, 9, 2, -85, 4]
+2021-01-26 15:43:14 [main] INFO  by.metelski.learn.creator.CustomArrayCreator- Created CustomArray object, and added to CustomArrayList
+2021-01-26 15:43:14 [main] INFO  by.metelski.learn.validation.CheckStringFromFile- string is valid : true
+2021-01-26 15:43:14 [main] INFO  by.metelski.learn.parser.CustomParser- return parsed array[48, 80, -86, -7, 93, -33, 86, -85, 99, -94, 30, 61, 91, 73, 24]
+2021-01-26 15:43:14 [main] INFO  by.metelski.learn.creator.CustomArrayCreator- Created CustomArray object, and added to CustomArrayList
+2021-01-26 15:43:14 [main] INFO  by.metelski.learn.validation.CheckStringFromFile- string is valid : false
+2021-01-26 15:43:14 [main] INFO  by.metelski.learn.validation.CheckStringFromFile- string is valid : true
+2021-01-26 15:43:14 [main] INFO  by.metelski.learn.parser.CustomParser- return parsed array[38, 22, 3, 21, 45, 20, 0, 30, 44, 9, 0, 23, 17, 35, 37]
+2021-01-26 15:43:14 [main] INFO  by.metelski.learn.creator.CustomArrayCreator- Created CustomArray object, and added to CustomArrayList
+2021-01-26 15:43:14 [main] INFO  by.metelski.learn.creator.CustomArrayCreator- return CustomArrayList
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- Average value: 2.9
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of negative numbers: 1
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of positive numbers: 6
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- sum of all array elements: 29
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.action.ArrayAction- sorted array: CustomArray{array=[-8, -7, -5, -1, 0, 1, 4, 6, 9, 12, 15]}
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.action.ArrayAction- sorted array: CustomArray{array=[-8, -7, -5, -1, 0, 1, 4, 6, 9, 12, 15]}
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNegativeElements, number to replace: 0
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 1
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 4
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 7
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 9
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.action.ArrayAction- all negative elements replaced for number: 0
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNumbersAboveNull, number to replace: 5
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 2
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 8
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.action.ArrayAction- all elements above nine replaced for number: 5
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.action.ArrayAction- sorted array: CustomArray{array=[-8, -7, -5, -1, 0, 1, 4, 6, 9, 12, 15]}
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.validation.CheckStringFromFile- string is valid : true
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.parser.CustomParser- return parsed array[1, -5, 8, -9, 10, 0, 954]
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.reader.StringFromTextFileReader- read string from file : [1,5,18,-9,0,0,-2,0,18,9,2,-85,4, 48 80 -86 -7 93 -33 86 -85 99 -94 30 61 91 73 24, 35,z4, 4z5c, aaa, 38 22 3 21 45 20 0 30 44 9 0 23 17 35 37]
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.validation.CheckStringFromFile- string is valid : true
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.parser.CustomParser- return parsed array[1, 5, 18, -9, 0, 0, -2, 0, 18, 9, 2, -85, 4]
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.creator.CustomArrayCreator- Created CustomArray object, and added to CustomArrayList
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.validation.CheckStringFromFile- string is valid : true
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.parser.CustomParser- return parsed array[48, 80, -86, -7, 93, -33, 86, -85, 99, -94, 30, 61, 91, 73, 24]
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.creator.CustomArrayCreator- Created CustomArray object, and added to CustomArrayList
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.validation.CheckStringFromFile- string is valid : false
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.validation.CheckStringFromFile- string is valid : true
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.parser.CustomParser- return parsed array[38, 22, 3, 21, 45, 20, 0, 30, 44, 9, 0, 23, 17, 35, 37]
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.creator.CustomArrayCreator- Created CustomArray object, and added to CustomArrayList
+2021-01-26 15:43:58 [main] INFO  by.metelski.learn.creator.CustomArrayCreator- return CustomArrayList
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- Average value: 2.9
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- max value: 12
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- min value: -8
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of negative numbers: 1
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- number of positive numbers: 6
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.action.ArrayParameterCalculator- sum of all array elements: 29
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.action.ArrayAction- sorted array: CustomArray{array=[-8, -7, -5, -1, 0, 1, 4, 6, 9, 12, 15]}
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.action.ArrayAction- sorted array: CustomArray{array=[-8, -7, -5, -1, 0, 1, 4, 6, 9, 12, 15]}
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNegativeElements, number to replace: 0
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 1
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 4
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 7
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- set element 0 index: 9
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.action.ArrayAction- all negative elements replaced for number: 0
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.action.ArrayAction- replaceAllNumbersAboveNull, number to replace: 5
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element 1 index: 0
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element -5 index: 1
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element 12 index: 2
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 2
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element 9 index: 3
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element -8 index: 4
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element 6 index: 5
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element 4 index: 6
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element -7 index: 7
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element 15 index: 8
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- set element 5 index: 8
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element -1 index: 9
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get element 0 index: 10
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.action.ArrayAction- all elements above nine replaced for number: 5
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- set array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.action.ArrayAction- sorted array: CustomArray{array=[-8, -7, -5, -1, 0, 1, 4, 6, 9, 12, 15]}
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.entity.CustomArray- get array
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.validation.CheckStringFromFile- string is valid : true
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.parser.CustomParser- return parsed array[1, -5, 8, -9, 10, 0, 954]
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.reader.StringFromTextFileReader- read string from file : [1,5,18,-9,0,0,-2,0,18,9,2,-85,4, 48 80 -86 -7 93 -33 86 -85 99 -94 30 61 91 73 24, 35,z4, 4z5c, aaa, 38 22 3 21 45 20 0 30 44 9 0 23 17 35 37]
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.validation.CheckStringFromFile- string is valid : true
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.parser.CustomParser- return parsed array[1, 5, 18, -9, 0, 0, -2, 0, 18, 9, 2, -85, 4]
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.creator.CustomArrayCreator- Created CustomArray object, and added to CustomArrayList
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.validation.CheckStringFromFile- string is valid : true
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.parser.CustomParser- return parsed array[48, 80, -86, -7, 93, -33, 86, -85, 99, -94, 30, 61, 91, 73, 24]
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.creator.CustomArrayCreator- Created CustomArray object, and added to CustomArrayList
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.validation.CheckStringFromFile- string is valid : false
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.validation.CheckStringFromFile- string is valid : true
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.parser.CustomParser- return parsed array[38, 22, 3, 21, 45, 20, 0, 30, 44, 9, 0, 23, 17, 35, 37]
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.creator.CustomArrayCreator- Created CustomArray object, and added to CustomArrayList
+2021-01-26 15:44:08 [main] INFO  by.metelski.learn.creator.CustomArrayCreator- return CustomArrayList

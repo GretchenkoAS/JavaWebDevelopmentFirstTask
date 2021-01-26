@@ -42,4 +42,25 @@ public class ArrayActionTest extends Assert {
         int[] actualArray = customArray.getArray();
         assertEquals(actualArray, expectedArray);
     }
+    @Test
+    public void testBubbleSortCustomArray(){
+        int[] expectedArray = {-8,-7,-5,-1,0,1,4,6,9,12,15};
+        arrayAction.bubbleSortCustomArray(customArray);
+        int[] actualArray = customArray.getArray();
+        assertEquals(actualArray,expectedArray);
+    }
+    @Test
+    public void testInsertionSortCustomArray(){
+        int[] expectedArray = {-8,-7,-5,-1,0,1,4,6,9,12,15};
+        arrayAction.insertionSortCustomArray(customArray);
+        int[] actualArray = customArray.getArray();
+        assertEquals(actualArray,expectedArray);
+    }
+    @Test
+    public void testSelectionSortCustomArray(){
+        int[] expectedArray = {-8,-7,-5,-1,0,1,4,6,9,12,15};
+        arrayAction.selectionSortCustomArray(customArray);
+        int[] actualArray = customArray.getArray();
+        assertEquals(actualArray,expectedArray);
+    }
 }

@@ -1,15 +1,24 @@
 package by.metelski.learn.entity;
 
 import by.metelski.learn.exception.CustomArrayException;
-import by.metelski.learn.validation.CheckArray;
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+
+import java.util.Arrays;
 
 public class CustomArray {
     public final static Logger logger = LogManager.getLogger();
 
     private int[] array;
+
+    public CustomArray() {
+
+    }
+
+    public CustomArray(int[] array) {
+        this.array = array;
+    }
 
     public int[] getArray() {
         logger.log(Level.INFO, "get array");
@@ -37,6 +46,26 @@ public class CustomArray {
     public void setArray(int[] array) {
         this.array = array;
         logger.log(Level.INFO, "set array");
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        CustomArray that = (CustomArray) o;
+        return Arrays.equals(array, that.array);
+    }
+
+    @Override
+    public int hashCode() {
+        return Arrays.hashCode(array);
+    }
+
+    @Override
+    public String toString() {
+        return "CustomArray{" +
+                "array=" + Arrays.toString(array) +
+                '}';
     }
 
 }
